@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- **URL del Repositorio:**  [GitHub]
+- **URL del Repositorio:**  [GitHub](https://github.com/jesussantos210/order-card-preview-jesus)
 - **URL del Sitio en Vivo:** [GitHub Pages]
 
 ## My process
